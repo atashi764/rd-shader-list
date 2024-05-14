@@ -17,7 +17,7 @@ According to <a href="https://minecraft.fandom.com/wiki/RenderDragon" target="_b
 It's really unoptimized. Consumes more resource than older engines but <a href="https://bugs.mojang.com/browse/MCPE-142934" target="_blank">outputs less performance</a>. This engine also made older shaders incompatible. Newer shaders (aka Renderdragon shaders) now require direct editing of the game itself or memory injection in some way.</details>
 
 
-<details open><summary>Renderdragon shader installation guide</summary>
+<details><summary>Renderdragon shader installation guide</summary>
 
 ### Mobile
 * Android
