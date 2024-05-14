@@ -11,10 +11,10 @@ Most links hosted here redirects to third party websites. These links may contai
 Introduction of Renderdragon made game enhancing mods like shaders harder to use. This repo serves as a list of shaders that work with the new rendering engine. Keep in mind, this repo is maintained by people in their free times. So, there could be mistakes, delays and so on. You can contribute by <a href="https://github.com/DominoKorean/Render-dragon-shader-list/issues" target="_blank">reporting issues</a> or <a href="https://github.com/DominoKorean/Render-dragon-shader-list/pulls" target="_blank">making Pull Requests</a>.
 
 #### What is Renderdragon?<br>
-According to <a href="https://minecraft.fandom.com/wiki/RenderDragon" target="_blank">Fandom Wiki</a>, it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.<br><br>
+According to <a href="https://minecraft.fandom.com/wiki/RenderDragon" target="_blank">Fandom Wiki</a>, it's a new rendering engine made for Minecraft Bedrock edition which replaces old OpenGL/DirectX engine.
 
 #### What's wrong with Renderdragon?<br>
-It's really unoptimized. Consumes more resource than older engines but <a href="https://bugs.mojang.com/browse/MCPE-142934" target="_blank">outputs less performance</a>. This engine also made older shaders incompatible. Newer shaders (aka Renderdragon shaders) now require direct editing of the game itself or memory injection in some way.<br></details>
+It's really unoptimized. Consumes more resource than older engines but <a href="https://bugs.mojang.com/browse/MCPE-142934" target="_blank">outputs less performance</a>. This engine also made older shaders incompatible. Newer shaders (aka Renderdragon shaders) now require direct editing of the game itself or memory injection in some way.</details>
 
 
 <details open><summary>Renderdragon shader installation guide</summary>
