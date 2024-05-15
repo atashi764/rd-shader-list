@@ -3,7 +3,7 @@
 # Reminder!
 Most links hosted here goes to third party websites. These links may contain malicious content. So be careful, don't click on ads.<br><br>
 
-dd# Getting started
+# Getting started
 
 <details open><summary><b>FAQ</b></summary><hr>
 
