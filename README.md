@@ -64,6 +64,7 @@ Since its introduction, third-party shaders have become unusable, and therefore 
     - [Innovative Shader for BE](#innovative-shader-for-be)
     - [Darkfall BE](#darkfall-be)
     - [Shasvat Shader](#shasvat-shader)
+    - [Eternity Shader](#eternity-shader)
     - [Newb X Legacy](#newb-x-legacy)
       - [newb variants](#newb-variants)
     - [AziFy Revive](#azify-revive)
@@ -135,6 +136,13 @@ Enhancement Mod for the RenderDragon Engine of _**Minecraft: Bedrock Edition**_
 * Configurable ImGui
 
 </details>
+
+>[!NOTE]
+> The version below is provided by [YSS Group](https://discord.gg/yss) and has not yet been released on GitHub.  
+> If it is classified as an Old version, it means that a new BetterRenderDragon has been updated on GitHub.
+
+* [BetterRenderDragon-1.4.3](https://cdn.discordapp.com/attachments/1234853561280761927/1251792994047361044/BetterRenderDragon-1.4.3.zip?ex=666fde92&is=666e8d12&hm=510083863afce70a4d3bac5d8572738a2fadc50976177db56d66f80575b4e6b9&)
+![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~_1.21.0,_Preview_1.21.10.20_~_-2d7a3e?style=flat-square) 
 
 <br/>
 <br/>
@@ -237,8 +245,8 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 [![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Years%20static%20shader/YSS%20SE/README.md)  
 
 - 1.9.7.8
-  - [Android](https://cdn.discordapp.com/attachments/1066623642194153582/1221190876471230526/YSS_SE_1.9.8.0_Android.mcpack?ex=663151a1&is=66300021&hm=911751e92fdbb4c86bce93691d2622870056cf9f04a59e1db71a5aed8e211c31&)
-  - [Windows](https://cdn.discordapp.com/attachments/1066623642194153582/1221190877008105645/YSS_SE_1.9.8.0_Windows.mcpack?ex=663151a1&is=66300021&hm=88d369f85ca00a2bded6bfd519a513a0d1529816bbba6ab92d20e98d85a51495&)
+  - [Android](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Android.mcpack)
+  - [Windows](https://yss.minecraft.pe/YSS_SE/YSS_SE_1.9.7.8_Windows.mcpack)
 
 <details>
 <summary> Show all versions </summary>
@@ -374,41 +382,43 @@ A multiversion gophertunnel proxy to join the latest MC version without renderdr
 
 <br/>
 
-- [v1.9.8](https://cdn.discordapp.com/attachments/972141088607436890/1198610834763546704/YSS_RD_1.9.8.mcpack?ex=66319214&is=66304094&hm=e56137bb76c430042b398ad61a75755f17db156a7e84eafa701a6fdb31fb530b&)
+- [1.9.9](https://cdn.discordapp.com/attachments/972141088607436890/1251013786228232202/YSS_RD_1.9.9.mcpack?ex=666fabe1&is=666e5a61&hm=a87cab0dfd045a545924f555f9e64e6f5ff2fdb7e0fd3373033aa7b2a3d5784b&)
+![](https://img.shields.io/badge/Supported_MC_version-1.21_~-2d7a3e?style=flat-square)  
 
 <details>
 <summary> Show all versions </summary>
 
 <br/>
 
-  - [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
-  - [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
+- [v1.9.8](https://yss.minecraft.pe/YSS_RD/YSS_RD_1.9.8.mcpack)
+- [v1.9.8 Beta3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1122433056637190224/YSS_RD_1.9.8_Beta3_Lite.zip?ex=66124fbe&is=65ffdabe&hm=4188b99cc918e33633a288415dfa3dbb56086c25a139f860cff5c95d899377fa&)
+- [v1.9.8 Beta3](https://cdn.discordapp.com/attachments/972141088607436890/1122184775910825984/YSS_RD_1.9.8_Beta3.zip?ex=66116883&is=65fef383&hm=553354710af65eaac15149f9f97463418eaa536db5f37e109353d98e8fe23c1f&)
 ![](https://img.shields.io/badge/Supported_from_this_version-Xbox-107c10?style=flat-square&logo=xbox)
-  - [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip?ex=660ed4ff&is=65fc5fff&hm=5f21cccf8f0e45200326e93a57c2a23b787266ee61af1a6cb15b9a74633d4f7c&)
-  - [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip?ex=660ccb6a&is=65fa566a&hm=bf3c05f91d8f240d61224647b921c0df801c1c333a0f5ba4686c2fd30898bd67&)
+- [v1.9.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1111329765421486100/YSS_RD_1.9.8_Beta2.zip?ex=660ed4ff&is=65fc5fff&hm=5f21cccf8f0e45200326e93a57c2a23b787266ee61af1a6cb15b9a74633d4f7c&)
+- [v1.9.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1108233005396394024/YSS_RD_1.9.8_Beta1.zip?ex=660ccb6a&is=65fa566a&hm=bf3c05f91d8f240d61224647b921c0df801c1c333a0f5ba4686c2fd30898bd67&)
 ![](https://img.shields.io/badge/Supported_from_this_version-MaterialBinLoader-6F8761?style=flat-square)
-  - [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip?ex=660c3fac&is=65f9caac&hm=11eaa4c3156ca590f525db04733c5bc5bb1ec42896e9020ad88849ee3bbd8d3c&)
+- [v1.9.7](https://cdn.discordapp.com/attachments/972141088607436890/1105546243414970408/YSS_RD_1.9.7.zip?ex=660c3fac&is=65f9caac&hm=11eaa4c3156ca590f525db04733c5bc5bb1ec42896e9020ad88849ee3bbd8d3c&)
 ![](https://img.shields.io/badge/Supported_from_this_version-Switch-e60012?style=flat-square&logo=nintendoswitch)
-  - [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip?ex=660d8cc9&is=65fb17c9&hm=43ff3835758e02b7abdd98d2c2601777c84983af0478af81717813f72f35712d&)
-  - [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip?ex=660eb385&is=65fc3e85&hm=beb27eb9246fc44276467cdf1af060be890e44ddddb9c3d9e90781f57dec67ec&)
-  - [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip?ex=66100802&is=65fd9302&hm=0af73dc35a8005255ab61d9ce67f65b56fa0cedb9dca0b95e620fc47e8f4b7c9&)
-  - [v1.9.3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1089927728544886834/YSS_RD_1.9.3_Lite.zip?ex=660acccc&is=65f857cc&hm=be10fe9f18e1d06e54d249b92495dab6e19c7b5e0f3088e4c1902593f6155a5c&)
-  - [v1.9.3](https://cdn.discordapp.com/attachments/972141088607436890/1089533277662085120/YSS_RD_1.9.3.zip?ex=66095d6f&is=65f6e86f&hm=20ac7c0b101b57e4b4ff7cdc2a0c92e522ceb09bbef96dbcb71f30ad0b526c57&)
-  - [v1.9.2](https://cdn.discordapp.com/attachments/972141088607436890/1087017885949505616/YSS_RD_1.9.2.zip?ex=6609714b&is=65f6fc4b&hm=e10542260cb37365da189479944b20e002a7ed54bccd11fcba57971ba2ec33ad&)
-  - [v1.9.1](https://cdn.discordapp.com/attachments/972141088607436890/1084364006686474251/YSS_RD_1.9.1.zip?ex=66123ead&is=65ffc9ad&hm=cdff5aab14c7a69b7abde6b2fef0f0a4933c99153da61e2da571b5279eb2f76d&)
-  - [v1.6 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621328307695726/YSS_RD_1.6_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=d49e73584b8a4cb1238a2cc8a147d5e40595d9bf22e3c3f39bd2d3496fe5b94a&)
-  - [v1.4 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621327875674172/YSS_RD_1.4_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=1ea4448c74d23f05dd28adcb839d1f4f513c80828ee10c4e60886e241a74b6ee&)
-  - [v1.9](https://cdn.discordapp.com/attachments/972141088607436890/1073634274009419896/YSS_RD_v1.9.zip?ex=66101fd6&is=65fdaad6&hm=3dff2a189cc95b448c412e3ae1091af0692f7f2364a607e05ce8090e8b315f70&)
-  - [v1.8](https://cdn.discordapp.com/attachments/972141088607436890/1060557487507525732/YSS_RD_v1.8.zip?ex=660eb1a1&is=65fc3ca1&hm=9d37560f3bd22360f164f5e5a1c470c9a7899fa2ccd3c6e825c690042aed1fcf&)
-  - [v1.8 Beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip?ex=660c314b&is=65f9bc4b&hm=0d5c48f6e9b48aecb21bf5038d16c9f18d5cb48b04fcc96bd2ab22fee4739fde&)
-  - [v1.8 Beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip?ex=6610b7de&is=65fe42de&hm=369551f65f8cc11559bed26d08782ae515b7181428b84411ba375fcd709e5695&)
-  - [v1.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip?ex=660cbfe1&is=65fa4ae1&hm=63ad6766b727fbbde5eafcdb353699732858b8e548f53ddbc7dc91a50ce700de&)
-  - [v1.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip?ex=6612368f&is=65ffc18f&hm=02960d61b9de0924ba0412f39638a34a51cd31ee3ca7b6f2235527efec11e5e3&)
-  - [v1.6](https://cdn.discordapp.com/attachments/972141088607436890/975756710050426931/YSS_for_RenderDragon_v1.6.zip?ex=660abb40&is=65f84640&hm=774848f5db35866448c070b6ac19bace68e26f5bf1f362f31c388bc1d9668009&)
-  - [v1.5](https://cdn.discordapp.com/attachments/972141088607436890/974172944588738580/YSS_for_RenderDragon_v1.5.zip?ex=660e32c1&is=65fbbdc1&hm=1389aa4a08d663e9163a9c10cdcdb245420b8792f79f8665bdfcbabe752fa661&)
-  - [v1.4](https://cdn.discordapp.com/attachments/972141088607436890/973825512340336710/YSS_for_RenderDragon_v1.4.zip?ex=660cef2e&is=65fa7a2e&hm=12b23ab33ce41f7c7427b4b279997de312b3a61a544aad67eddc84d357b34b94&)  
-  - [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip?ex=6609352a&is=65f6c02a&hm=999fb35cfba4f204ee6e162e36ac60736b413145ed125599cf46e7f7783913f2&)  
-  - [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip?ex=6610c96a&is=65fe546a&hm=02259e2214aabdcd894d30ee5758e6036e39b8bbf942ddeab8ddc2382cc96a42&)
+- [v1.9.6](https://cdn.discordapp.com/attachments/972141088607436890/1103367207985106954/YSS_RD_1.9.6.zip?ex=660d8cc9&is=65fb17c9&hm=43ff3835758e02b7abdd98d2c2601777c84983af0478af81717813f72f35712d&)
+- [v1.9.5](https://cdn.discordapp.com/attachments/972141088607436890/1093536816109461524/YSS_RD_1.9.5.zip?ex=660eb385&is=65fc3e85&hm=beb27eb9246fc44276467cdf1af060be890e44ddddb9c3d9e90781f57dec67ec&)
+- [v1.9.4](https://cdn.discordapp.com/attachments/972141088607436890/1091365694953771099/YSS_RD_1.9.4.zip?ex=66100802&is=65fd9302&hm=0af73dc35a8005255ab61d9ce67f65b56fa0cedb9dca0b95e620fc47e8f4b7c9&)
+- [v1.9.3 Lite](https://cdn.discordapp.com/attachments/972141088607436890/1089927728544886834/YSS_RD_1.9.3_Lite.zip?ex=660acccc&is=65f857cc&hm=be10fe9f18e1d06e54d249b92495dab6e19c7b5e0f3088e4c1902593f6155a5c&)
+- [v1.9.3](https://cdn.discordapp.com/attachments/972141088607436890/1089533277662085120/YSS_RD_1.9.3.zip?ex=66095d6f&is=65f6e86f&hm=20ac7c0b101b57e4b4ff7cdc2a0c92e522ceb09bbef96dbcb71f30ad0b526c57&)
+- [v1.9.2](https://cdn.discordapp.com/attachments/972141088607436890/1087017885949505616/YSS_RD_1.9.2.zip?ex=6609714b&is=65f6fc4b&hm=e10542260cb37365da189479944b20e002a7ed54bccd11fcba57971ba2ec33ad&)
+- [v1.9.1](https://cdn.discordapp.com/attachments/972141088607436890/1084364006686474251/YSS_RD_1.9.1.zip?ex=66123ead&is=65ffc9ad&hm=cdff5aab14c7a69b7abde6b2fef0f0a4933c99153da61e2da571b5279eb2f76d&)
+- [v1.6 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621328307695726/YSS_RD_1.6_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=d49e73584b8a4cb1238a2cc8a147d5e40595d9bf22e3c3f39bd2d3496fe5b94a&)
+- [v1.4 1.19.60](https://cdn.discordapp.com/attachments/972141088607436890/1081621327875674172/YSS_RD_1.4_1.19.60.zip?ex=66117edc&is=65ff09dc&hm=1ea4448c74d23f05dd28adcb839d1f4f513c80828ee10c4e60886e241a74b6ee&)
+- [v1.9](https://cdn.discordapp.com/attachments/972141088607436890/1073634274009419896/YSS_RD_v1.9.zip?ex=66101fd6&is=65fdaad6&hm=3dff2a189cc95b448c412e3ae1091af0692f7f2364a607e05ce8090e8b315f70&)
+- [v1.8](https://cdn.discordapp.com/attachments/972141088607436890/1060557487507525732/YSS_RD_v1.8.zip?ex=660eb1a1&is=65fc3ca1&hm=9d37560f3bd22360f164f5e5a1c470c9a7899fa2ccd3c6e825c690042aed1fcf&)
+- [v1.8 Beta6](https://cdn.discordapp.com/attachments/972141088607436890/1042112926401708043/YSS_RD_1.8_beta_6.zip?ex=660c314b&is=65f9bc4b&hm=0d5c48f6e9b48aecb21bf5038d16c9f18d5cb48b04fcc96bd2ab22fee4739fde&)
+- [v1.8 Beta5](https://cdn.discordapp.com/attachments/972141088607436890/1040820223135199252/YSS_RD_1.8_beta_5.zip?ex=6610b7de&is=65fe42de&hm=369551f65f8cc11559bed26d08782ae515b7181428b84411ba375fcd709e5695&)
+- [v1.8 Beta2](https://cdn.discordapp.com/attachments/972141088607436890/1006752018863489117/YSS_RD_v1.8_beta2.zip?ex=660cbfe1&is=65fa4ae1&hm=63ad6766b727fbbde5eafcdb353699732858b8e548f53ddbc7dc91a50ce700de&)
+- [v1.8 Beta1](https://cdn.discordapp.com/attachments/972141088607436890/1005717121336090624/YSS_RD_v1.8_Beta1.zip?ex=6612368f&is=65ffc18f&hm=02960d61b9de0924ba0412f39638a34a51cd31ee3ca7b6f2235527efec11e5e3&)
+- [v1.6](https://cdn.discordapp.com/attachments/972141088607436890/975756710050426931/YSS_for_RenderDragon_v1.6.zip?ex=660abb40&is=65f84640&hm=774848f5db35866448c070b6ac19bace68e26f5bf1f362f31c388bc1d9668009&)
+- [v1.5](https://cdn.discordapp.com/attachments/972141088607436890/974172944588738580/YSS_for_RenderDragon_v1.5.zip?ex=660e32c1&is=65fbbdc1&hm=1389aa4a08d663e9163a9c10cdcdb245420b8792f79f8665bdfcbabe752fa661&)
+- [v1.4](https://cdn.discordapp.com/attachments/972141088607436890/973825512340336710/YSS_for_RenderDragon_v1.4.zip?ex=660cef2e&is=65fa7a2e&hm=12b23ab33ce41f7c7427b4b279997de312b3a61a544aad67eddc84d357b34b94&)  
+- [V1.2](https://cdn.discordapp.com/attachments/972141088607436890/972801142851534948/YSS_for_RenderDragon_v1.2.zip?ex=6609352a&is=65f6c02a&hm=999fb35cfba4f204ee6e162e36ac60736b413145ed125599cf46e7f7783913f2&)  
+- [V1](https://cdn.discordapp.com/attachments/972141088607436890/972347754732982282/YSS_for_RenderDragon_v1.zip?ex=6610c96a&is=65fe546a&hm=02259e2214aabdcd894d30ee5758e6036e39b8bbf942ddeab8ddc2382cc96a42&)
 
 </details>
 
@@ -655,6 +665,19 @@ https://github.com/Rinloid/reflective-vanilla-rd
 <br/>
 <br/>
 
+### Eternity Shader
+[![](/banners/Eternity%20Shader.png)](https://discord.com/channels/660840983117955072/1252148029683925055)
+![](https://img.shields.io/badge/Android-black?style=flat-square&logo=android)
+![](https://img.shields.io/badge/iOS_&_iPadOS-0A84E1?style=flat-square&logo=Apple)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/MaterialBinLoader-6F8761?style=flat-square)  
+[![](https://img.shields.io/badge/Screen_Shots-click-white?style=social-square)](screenshots/Eternity%20Shader/README.md)  
+
+- [V1.0 [BETA]](https://download2303.mediafire.com/m2rck5ep5atgHSJzoBACRJ5aJf5yxlRp6UX4NEA6OHExXINg8qMNAGNkoSCLWDh5FGfzywRHClpXpdf7VTzXkK2Y-E-rCQ9tV7VCyWNucGS2V3N2o9RlSwrohSmbaKKsX4yAOZn1KAPFD_VP5tvae5ztF3Yx69ut2vnmr2djFw/yxrwiewxz5flrqp/Eternity+Shader+V1.0+Beta+%5BAndroid%2C+iOS+%26+Win%5D.zip)
+
+<br/>
+<br/>
+
 ### Newb X Legacy
 [![](/banners/Newb%20X.png)](https://devendrn.github.io/newb-shader/)
 [![](https://img.shields.io/badge/Source_code-black?style=flat-square&logo=github)](https://github.com/devendrn/newb-x-mcbe)  
@@ -668,6 +691,14 @@ https://github.com/Rinloid/reflective-vanilla-rd
 
 <details>
 <summary> Show Beta versions </summary>
+
+- [v15.38-b1](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.38-b1-android.mcpack)
+![](https://img.shields.io/badge/Supported_MC_version-1.20.80_~-2d7a3e?style=flat-square)  
+
+- [v15.37](https://github.com/devendrn/newb-shader/releases/tag/v15)
+  - [Andorid](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-android.mcpack)
+  - [Windows](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.37-windows.mcpack)
+  - [iOS Materails](https://github.com/devendrn/newb-shader/releases/download/v15/newb-x-legacy-15.57-ios-materials.zip)
 
 - [v15.36](https://discord.com/channels/844591537430069279/1127879378378969088/1232371378947231774)
   - [Andorid](https://github.com/DominoKorean/Render-dragon-shader-list/raw/main/files/newbX/beta/newb-x-android-15.36.mcpack)
@@ -1337,3 +1368,10 @@ RenderDragon .material.bin unpacking/packaging/compilation tool
 
 ## Renderdragon Shader Installation
 https://github.com/DominoKorean/Render-dragon-shader-list/tree/main/installation
+
+<br/>
+<br/>
+<br/>
+
+---
+THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. IT IS NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
